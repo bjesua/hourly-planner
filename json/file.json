@@ -1,0 +1,648 @@
+{
+  "1": {
+    "total_datos": 0,
+    "horario": "07:00:00",
+    "datos": []
+  },
+  "2": {
+    "total_datos": 0,
+    "horario": "07:30:00",
+    "datos": []
+  },
+  "3": {
+    "total_datos": 3,
+    "horario": "08:00:00",
+    "datos": [
+      {
+        "id_usuario": "1",
+        "nombre": "Kyle",
+        "id_horario": "3",
+        "hora": "08:00:00"
+      },
+      {
+        "id_usuario": "2",
+        "nombre": "Paul",
+        "id_horario": "3",
+        "hora": "08:00:00"
+      },
+      {
+        "id_usuario": "4",
+        "nombre": "Luis",
+        "id_horario": "3",
+        "hora": "08:00:00"
+      }
+    ]
+  },
+  "4": {
+    "total_datos": 6,
+    "horario": "08:30:00",
+    "datos": [
+      {
+        "id_usuario": "1",
+        "nombre": "Kyle",
+        "id_horario": "4",
+        "hora": "08:30:00"
+      },
+      {
+        "id_usuario": "2",
+        "nombre": "Paul",
+        "id_horario": "4",
+        "hora": "08:30:00"
+      },
+      {
+        "id_usuario": "3",
+        "nombre": "Alex",
+        "id_horario": "4",
+        "hora": "08:30:00"
+      },
+      {
+        "id_usuario": "4",
+        "nombre": "Luis",
+        "id_horario": "4",
+        "hora": "08:30:00"
+      },
+      {
+        "id_usuario": "5",
+        "nombre": "Jairo",
+        "id_horario": "4",
+        "hora": "08:30:00"
+      },
+      {
+        "id_usuario": "6",
+        "nombre": "Sonya",
+        "id_horario": "4",
+        "hora": "08:30:00"
+      }
+    ]
+  },
+  "5": {
+    "total_datos": 3,
+    "horario": "09:00:00",
+    "datos": [
+      {
+        "id_usuario": "1",
+        "nombre": "Kyle",
+        "id_horario": "5",
+        "hora": "09:00:00"
+      },
+      {
+        "id_usuario": "3",
+        "nombre": "Alex",
+        "id_horario": "5",
+        "hora": "09:00:00"
+      },
+      {
+        "id_usuario": "6",
+        "nombre": "Sonya",
+        "id_horario": "5",
+        "hora": "09:00:00"
+      }
+    ]
+  },
+  "6": {
+    "total_datos": 5,
+    "horario": "09:30:00",
+    "datos": [
+      {
+        "id_usuario": "1",
+        "nombre": "Kyle",
+        "id_horario": "6",
+        "hora": "09:30:00"
+      },
+      {
+        "id_usuario": "2",
+        "nombre": "Paul",
+        "id_horario": "6",
+        "hora": "09:30:00"
+      },
+      {
+        "id_usuario": "4",
+        "nombre": "Luis",
+        "id_horario": "6",
+        "hora": "09:30:00"
+      },
+      {
+        "id_usuario": "5",
+        "nombre": "Jairo",
+        "id_horario": "6",
+        "hora": "09:30:00"
+      },
+      {
+        "id_usuario": "6",
+        "nombre": "Sonya",
+        "id_horario": "6",
+        "hora": "09:30:00"
+      }
+    ]
+  },
+  "7": {
+    "total_datos": 6,
+    "horario": "10:00:00",
+    "datos": [
+      {
+        "id_usuario": "1",
+        "nombre": "Kyle",
+        "id_horario": "7",
+        "hora": "10:00:00"
+      },
+      {
+        "id_usuario": "2",
+        "nombre": "Paul",
+        "id_horario": "7",
+        "hora": "10:00:00"
+      },
+      {
+        "id_usuario": "3",
+        "nombre": "Alex",
+        "id_horario": "7",
+        "hora": "10:00:00"
+      },
+      {
+        "id_usuario": "4",
+        "nombre": "Luis",
+        "id_horario": "7",
+        "hora": "10:00:00"
+      },
+      {
+        "id_usuario": "5",
+        "nombre": "Jairo",
+        "id_horario": "7",
+        "hora": "10:00:00"
+      },
+      {
+        "id_usuario": "6",
+        "nombre": "Sonya",
+        "id_horario": "7",
+        "hora": "10:00:00"
+      }
+    ]
+  },
+  "8": {
+    "total_datos": 6,
+    "horario": "10:30:00",
+    "datos": [
+      {
+        "id_usuario": "1",
+        "nombre": "Kyle",
+        "id_horario": "8",
+        "hora": "10:30:00"
+      },
+      {
+        "id_usuario": "2",
+        "nombre": "Paul",
+        "id_horario": "8",
+        "hora": "10:30:00"
+      },
+      {
+        "id_usuario": "3",
+        "nombre": "Alex",
+        "id_horario": "8",
+        "hora": "10:30:00"
+      },
+      {
+        "id_usuario": "4",
+        "nombre": "Luis",
+        "id_horario": "8",
+        "hora": "10:30:00"
+      },
+      {
+        "id_usuario": "5",
+        "nombre": "Jairo",
+        "id_horario": "8",
+        "hora": "10:30:00"
+      },
+      {
+        "id_usuario": "6",
+        "nombre": "Sonya",
+        "id_horario": "8",
+        "hora": "10:30:00"
+      }
+    ]
+  },
+  "9": {
+    "total_datos": 6,
+    "horario": "11:00:00",
+    "datos": [
+      {
+        "id_usuario": "1",
+        "nombre": "Kyle",
+        "id_horario": "9",
+        "hora": "11:00:00"
+      },
+      {
+        "id_usuario": "2",
+        "nombre": "Paul",
+        "id_horario": "9",
+        "hora": "11:00:00"
+      },
+      {
+        "id_usuario": "3",
+        "nombre": "Alex",
+        "id_horario": "9",
+        "hora": "11:00:00"
+      },
+      {
+        "id_usuario": "4",
+        "nombre": "Luis",
+        "id_horario": "9",
+        "hora": "11:00:00"
+      },
+      {
+        "id_usuario": "5",
+        "nombre": "Jairo",
+        "id_horario": "9",
+        "hora": "11:00:00"
+      },
+      {
+        "id_usuario": "6",
+        "nombre": "Sonya",
+        "id_horario": "9",
+        "hora": "11:00:00"
+      }
+    ]
+  },
+  "10": {
+    "total_datos": 6,
+    "horario": "11:30:00",
+    "datos": [
+      {
+        "id_usuario": "1",
+        "nombre": "Kyle",
+        "id_horario": "10",
+        "hora": "11:30:00"
+      },
+      {
+        "id_usuario": "2",
+        "nombre": "Paul",
+        "id_horario": "10",
+        "hora": "11:30:00"
+      },
+      {
+        "id_usuario": "3",
+        "nombre": "Alex",
+        "id_horario": "10",
+        "hora": "11:30:00"
+      },
+      {
+        "id_usuario": "4",
+        "nombre": "Luis",
+        "id_horario": "10",
+        "hora": "11:30:00"
+      },
+      {
+        "id_usuario": "5",
+        "nombre": "Jairo",
+        "id_horario": "10",
+        "hora": "11:30:00"
+      },
+      {
+        "id_usuario": "6",
+        "nombre": "Sonya",
+        "id_horario": "10",
+        "hora": "11:30:00"
+      }
+    ]
+  },
+  "11": {
+    "total_datos": 0,
+    "horario": "12:00:00",
+    "datos": []
+  },
+  "12": {
+    "total_datos": 0,
+    "horario": "12:30:00",
+    "datos": []
+  },
+  "13": {
+    "total_datos": 6,
+    "horario": "13:00:00",
+    "datos": [
+      {
+        "id_usuario": "1",
+        "nombre": "Kyle",
+        "id_horario": "13",
+        "hora": "13:00:00"
+      },
+      {
+        "id_usuario": "2",
+        "nombre": "Paul",
+        "id_horario": "13",
+        "hora": "13:00:00"
+      },
+      {
+        "id_usuario": "3",
+        "nombre": "Alex",
+        "id_horario": "13",
+        "hora": "13:00:00"
+      },
+      {
+        "id_usuario": "4",
+        "nombre": "Luis",
+        "id_horario": "13",
+        "hora": "13:00:00"
+      },
+      {
+        "id_usuario": "5",
+        "nombre": "Jairo",
+        "id_horario": "13",
+        "hora": "13:00:00"
+      },
+      {
+        "id_usuario": "6",
+        "nombre": "Sonya",
+        "id_horario": "13",
+        "hora": "13:00:00"
+      }
+    ]
+  },
+  "14": {
+    "total_datos": 2,
+    "horario": "13:30:00",
+    "datos": [
+      {
+        "id_usuario": "3",
+        "nombre": "Alex",
+        "id_horario": "14",
+        "hora": "13:30:00"
+      },
+      {
+        "id_usuario": "5",
+        "nombre": "Jairo",
+        "id_horario": "14",
+        "hora": "13:30:00"
+      }
+    ]
+  },
+  "15": {
+    "total_datos": 6,
+    "horario": "14:00:00",
+    "datos": [
+      {
+        "id_usuario": "1",
+        "nombre": "Kyle",
+        "id_horario": "15",
+        "hora": "14:00:00"
+      },
+      {
+        "id_usuario": "2",
+        "nombre": "Paul",
+        "id_horario": "15",
+        "hora": "14:00:00"
+      },
+      {
+        "id_usuario": "3",
+        "nombre": "Alex",
+        "id_horario": "15",
+        "hora": "14:00:00"
+      },
+      {
+        "id_usuario": "4",
+        "nombre": "Luis",
+        "id_horario": "15",
+        "hora": "14:00:00"
+      },
+      {
+        "id_usuario": "5",
+        "nombre": "Jairo",
+        "id_horario": "15",
+        "hora": "14:00:00"
+      },
+      {
+        "id_usuario": "6",
+        "nombre": "Sonya",
+        "id_horario": "15",
+        "hora": "14:00:00"
+      }
+    ]
+  },
+  "16": {
+    "total_datos": 5,
+    "horario": "14:30:00",
+    "datos": [
+      {
+        "id_usuario": "2",
+        "nombre": "Paul",
+        "id_horario": "16",
+        "hora": "14:30:00"
+      },
+      {
+        "id_usuario": "3",
+        "nombre": "Alex",
+        "id_horario": "16",
+        "hora": "14:30:00"
+      },
+      {
+        "id_usuario": "4",
+        "nombre": "Luis",
+        "id_horario": "16",
+        "hora": "14:30:00"
+      },
+      {
+        "id_usuario": "5",
+        "nombre": "Jairo",
+        "id_horario": "16",
+        "hora": "14:30:00"
+      },
+      {
+        "id_usuario": "6",
+        "nombre": "Sonya",
+        "id_horario": "16",
+        "hora": "14:30:00"
+      }
+    ]
+  },
+  "17": {
+    "total_datos": 3,
+    "horario": "15:00:00",
+    "datos": [
+      {
+        "id_usuario": "1",
+        "nombre": "Kyle",
+        "id_horario": "17",
+        "hora": "15:00:00"
+      },
+      {
+        "id_usuario": "5",
+        "nombre": "Jairo",
+        "id_horario": "17",
+        "hora": "15:00:00"
+      },
+      {
+        "id_usuario": "6",
+        "nombre": "Sonya",
+        "id_horario": "17",
+        "hora": "15:00:00"
+      }
+    ]
+  },
+  "18": {
+    "total_datos": 3,
+    "horario": "15:30:00",
+    "datos": [
+      {
+        "id_usuario": "1",
+        "nombre": "Kyle",
+        "id_horario": "18",
+        "hora": "15:30:00"
+      },
+      {
+        "id_usuario": "3",
+        "nombre": "Alex",
+        "id_horario": "18",
+        "hora": "15:30:00"
+      },
+      {
+        "id_usuario": "5",
+        "nombre": "Jairo",
+        "id_horario": "18",
+        "hora": "15:30:00"
+      }
+    ]
+  },
+  "19": {
+    "total_datos": 6,
+    "horario": "16:00:00",
+    "datos": [
+      {
+        "id_usuario": "1",
+        "nombre": "Kyle",
+        "id_horario": "19",
+        "hora": "16:00:00"
+      },
+      {
+        "id_usuario": "2",
+        "nombre": "Paul",
+        "id_horario": "19",
+        "hora": "16:00:00"
+      },
+      {
+        "id_usuario": "3",
+        "nombre": "Alex",
+        "id_horario": "19",
+        "hora": "16:00:00"
+      },
+      {
+        "id_usuario": "4",
+        "nombre": "Luis",
+        "id_horario": "19",
+        "hora": "16:00:00"
+      },
+      {
+        "id_usuario": "5",
+        "nombre": "Jairo",
+        "id_horario": "19",
+        "hora": "16:00:00"
+      },
+      {
+        "id_usuario": "6",
+        "nombre": "Sonya",
+        "id_horario": "19",
+        "hora": "16:00:00"
+      }
+    ]
+  },
+  "20": {
+    "total_datos": 6,
+    "horario": "16:30:00",
+    "datos": [
+      {
+        "id_usuario": "1",
+        "nombre": "Kyle",
+        "id_horario": "20",
+        "hora": "16:30:00"
+      },
+      {
+        "id_usuario": "2",
+        "nombre": "Paul",
+        "id_horario": "20",
+        "hora": "16:30:00"
+      },
+      {
+        "id_usuario": "3",
+        "nombre": "Alex",
+        "id_horario": "20",
+        "hora": "16:30:00"
+      },
+      {
+        "id_usuario": "4",
+        "nombre": "Luis",
+        "id_horario": "20",
+        "hora": "16:30:00"
+      },
+      {
+        "id_usuario": "5",
+        "nombre": "Jairo",
+        "id_horario": "20",
+        "hora": "16:30:00"
+      },
+      {
+        "id_usuario": "6",
+        "nombre": "Sonya",
+        "id_horario": "20",
+        "hora": "16:30:00"
+      }
+    ]
+  },
+  "21": {
+    "total_datos": 6,
+    "horario": "17:00:00",
+    "datos": [
+      {
+        "id_usuario": "1",
+        "nombre": "Kyle",
+        "id_horario": "21",
+        "hora": "17:00:00"
+      },
+      {
+        "id_usuario": "2",
+        "nombre": "Paul",
+        "id_horario": "21",
+        "hora": "17:00:00"
+      },
+      {
+        "id_usuario": "3",
+        "nombre": "Alex",
+        "id_horario": "21",
+        "hora": "17:00:00"
+      },
+      {
+        "id_usuario": "4",
+        "nombre": "Luis",
+        "id_horario": "21",
+        "hora": "17:00:00"
+      },
+      {
+        "id_usuario": "5",
+        "nombre": "Jairo",
+        "id_horario": "21",
+        "hora": "17:00:00"
+      },
+      {
+        "id_usuario": "6",
+        "nombre": "Sonya",
+        "id_horario": "21",
+        "hora": "17:00:00"
+      }
+    ]
+  },
+  "22": {
+    "total_datos": 0,
+    "horario": "17:30:00",
+    "datos": []
+  },
+  "23": {
+    "total_datos": 0,
+    "horario": "18:00:00",
+    "datos": []
+  },
+  "24": {
+    "total_datos": 0,
+    "horario": "18:30:00",
+    "datos": []
+  },
+  "25": {
+    "total_datos": 0,
+    "horario": "19:00:00",
+    "datos": []
+  }
+}
